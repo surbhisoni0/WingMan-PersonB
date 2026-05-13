@@ -1,3 +1,10 @@
+It Stores:
+speed
+throttle
+SOC
+telemetry system realistic
+
+
 import copy
 import time
 
