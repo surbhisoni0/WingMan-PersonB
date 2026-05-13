@@ -1,3 +1,7 @@
+Purpose:
+rolling telemetry history
+recent state memory
+
 from collections import deque
 
 class TelemetryWindow:
@@ -19,3 +23,5 @@ class TelemetryWindow:
         return sum(
             s["speed"] for s in self.window
         ) / len(self.window)
+
+
