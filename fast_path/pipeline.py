@@ -8,3 +8,8 @@ soc = estimator.update(
 )
 
 print(soc)
+
+Connect everything together:
+window manager
+rules engine
+anomaly detector
