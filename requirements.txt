@@ -1,1 +1,14 @@
-
+fastf1
+filterpy
+faiss-cpu
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+fastapi
+uvicorn
+websockets
+httpx
+pytest
+pytest-asyncio
